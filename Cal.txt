@@ -1,4 +1,5 @@
 Hi You have to create calc project
 A Add
 B Subtract
-C 
+C canges
+D remove
